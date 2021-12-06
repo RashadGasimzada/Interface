@@ -1,0 +1,14 @@
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.AssemblyReference.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache
